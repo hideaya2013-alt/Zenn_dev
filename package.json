@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/hideaya2013-alt/Zenn_dev#readme",
   "dependencies": {
-    "zenn-cli": "^0.4.5"
+    "zenn-cli": "^0.4.6"
   }
 }
